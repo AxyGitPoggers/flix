@@ -1,0 +1,11 @@
+{
+    "name": "flix",
+    "url": "https://github.com/HaxeFlixel/flixel-demos",
+    "license": "MIT",
+    "tags": ["game", "openfl", "flash", "neko", "cpp", "android", "ios", "demo", "cross"],
+    "description": "pogger library for haxeflixel",
+    "version": "0.0.1",
+    "releasenote": "first commit",
+    "contributors": ["defiance"],
+    "dependencies": {}
+}
